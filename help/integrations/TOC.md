@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om integrering mellan Experience Cloud
 breadcrumb-title: Experience Cloud-integreringar
 user-guide-description: Integrationer lär sig.
 mini-toc-levels: 1
-source-git-commit: 510253b9fbf510ebdfb7e0cc51b854fa4c4bc07d
+source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 18%
@@ -23,7 +23,7 @@ ht-degree: 18%
    + [Kundresor](./solution-categories/customer-journeys.md)
    + [Datainsikter och aktivering](./solution-categories/data-insights.md)
    + [Anpassning i stor skala](./solution-categories/personalization.md)
-+ Programintegreringar{#integrations-between-applications}
++ Produktintegreringar{#integrations-between-applications}
    + [Översikt](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
