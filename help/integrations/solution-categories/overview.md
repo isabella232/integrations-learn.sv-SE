@@ -1,10 +1,10 @@
 ---
 title: Integreringskonfigurationer för Adobe Experience Cloud-program - per lösning
-description: Vanliga integrationskonfigurationer för Adobe Experience Cloud-program ordnade efter lösningar.
+description: Vanliga integreringskonfigurationer för Adobe Experience Cloud-program ordnade efter lösningar.
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 

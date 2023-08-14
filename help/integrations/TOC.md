@@ -1,12 +1,12 @@
 ---
-user-guide-title: Självstudiekurser om integrering mellan Experience Cloud
+user-guide-title: Självstudiekurser om integreringar i Experience Cloud
 breadcrumb-title: Experience Cloud-integreringar
-user-guide-description: Integrationer lär sig.
+user-guide-description: Lär dig om integreringar.
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 18%
+ht-degree: 25%
 
 ---
 
