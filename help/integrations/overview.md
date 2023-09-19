@@ -1,7 +1,7 @@
 ---
 title: Programintegreringar
 description: Lär dig mer om vanliga konfigurationer för integrering av Experience Cloud-program. Upptäck hur högklassiga företagsprodukter från Adobe kan hjälpa er att klara era affärsutmaningar.
-source-git-commit: e1655ab856d4623e4bbef0eb8099d94427cc3e62
+source-git-commit: 7a525d1a1890b12bd5955ed8c80d0cbf7e855461
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # Integrationskonfigurationer för Experience Cloud-program
 
-Känner du till Experience Cloud-programmen men vet inte hur de ska integreras på bästa sätt? Känner du till dina affärsmål men vet inte vilka program som ska användas? Då har du kommit till rätt ställe!
+Känner du till Experience Cloud-produkter men är osäker på hur de bäst kan integreras? Känner du till dina affärsmål men vet inte vilka program som ska användas? Då har du kommit till rätt ställe!
 
-De här självstudiekurserna för integrering mellan Experience Cloud beskriver några av de vanligaste programintegreringarna som finns. Dina konfigurationsalternativ beror på din miljö, så vi har organiserat integreringar av affärslösningar och program. Använd dessa självstudiekurser och videoklipp som vägledning för att distribuera i befintligt skick, eller ändra dem så att de passar din miljö.
+De här självstudiekurserna för integrering med Experience Cloud beskriver några av de vanligaste produktintegreringarna som finns. Dina konfigurationsalternativ beror på din miljö, så vi har organiserat integreringar med företagslösningar och produkter. Använd dessa självstudiekurser och videoklipp som vägledning för att distribuera i befintligt skick, eller ändra dem så att de passar din miljö.
 
 <table>
 <tr>
@@ -26,15 +26,15 @@ De här självstudiekurserna för integrering mellan Experience Cloud beskriver 
 </tr>
 <tr>
    <td>
-      <div><strong><a href="./integrations-between-applications/overview.md">Per program</a></strong></div>
+      <div><strong><a href="./integrations-between-applications/overview.md">Per produkt</a></strong></div>
       <p>
-        Du vet vilka Adobe-program du ska använda och vill lära dig hur du integrerar dem.
+        Du vet vilken Adobe-produkt du ska använda och vill lära dig hur du integrerar dem.
       </p>
    </td>
    <td>
       <div><strong><a href="./solution-categories/overview.md">Per företagslösning</a></strong></div>
       <p>
-        Du vet vilken affärslösning du söker, men du vet inte vilka Adobe-program du ska använda.
+        Du vet vilken affärslösning du söker, men du vet inte vilken Adobe-produkt du ska använda.
       </p>
    </td>  
 </tr>   
