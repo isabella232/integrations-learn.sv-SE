@@ -1,17 +1,19 @@
 ---
-title: Integreringskonfigurationer för Adobe Experience Cloud-program - per lösning
-description: Vanliga integreringskonfigurationer för Adobe Experience Cloud-program ordnade efter lösningar.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: Programintegrationskonfigurationer - per företagslösning
+description: Lär dig mer om vanliga integrationskonfigurationer för Experience Cloud-program, ordnade efter affärslösningar.
+exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 10%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
+# Integrationskonfigurationer för Experience Cloud - ordnade efter lösning
 
-# Integreringskonfigurationer för Adobe Experience Cloud-program - per lösning
+I det här avsnittet får alla som har ett företag hjälp, men du vet inte vilka Adobe-program som ska användas och hur de ska integreras. Här är många av de vanligaste integrationskonfigurationerna, ordnade efter lösningar (B2B-marknadsföring, innehållsleveranskedja, datainsikter och aktivering osv.).
 
-Det här avsnittet kommer att hjälpa alla som har ett företag att behöva men som är osäkra på vilka Adobe-produkter som ska användas och hur de ska integreras.  Vi har organiserat många av de vanligaste integrationskonfigurationerna för företagsprodukterna i Adobe per lösningskategori.  Tänk på att det finns många sätt att konfigurera Adobe-produkterna beroende på vilken miljö du använder.  Avsikten med det här avsnittet är att ge vägledning om hur du kan distribuera i befintligt skick eller ändra för att tillgodose behoven i din miljö.
+Tänk på att det finns många sätt att konfigurera programmen i Adobe, beroende på vilken miljö du använder. Avsikten med det här avsnittet är att ge vägledning om hur du kan distribuera i befintligt skick eller ändra dem för att tillgodose behoven i din miljö.
 
 <table>
 <tr>
@@ -24,7 +26,7 @@ Det här avsnittet kommer att hjälpa alla som har ett företag att behöva men 
     </td>
    <td>
       <a  href="./commerce.md"><img alt="handel" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         Digital e-handel inom B2B och B2C
       </p>
@@ -40,14 +42,14 @@ Det här avsnittet kommer att hjälpa alla som har ett företag att behöva men 
 <tr>
    <td>
       <a  href="./content-supply-chain.md"><img alt="Innehållsleveranskedja" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
-      <div><strong><a href="./content-supply-chain.md">Innehållsleveranskedja</a></strong></div>
+      <div><strong><a href="./content-supply-chain.md">Innehållsförsörjningskedja</a></strong></div>
       <p>
         Skapa och leverera material snabbare
       </p> 
     </td>
    <td>
       <a  href="./customer-journeys.md"><img alt="Customer Journeys" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
-      <div><strong><a href="./customer-journeys.md">Customer Journeys</a></strong></div>
+      <div><strong><a href="./customer-journeys.md">Kundresor</a></strong></div>
       <p>
         Flerkanalsmarknadsföring och -leverans
       </p> 
@@ -69,4 +71,3 @@ Det här avsnittet kommer att hjälpa alla som har ett företag att behöva men 
       </p>
    </td>
 </table>
-

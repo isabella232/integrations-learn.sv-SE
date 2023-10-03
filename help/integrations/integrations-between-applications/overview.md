@@ -1,17 +1,19 @@
 ---
-title: Integreringskonfigurationer för Adobe Experience Cloud-program - per produkt
-description: Vanliga integreringskonfigurationer för Adobe Experience Cloud-program ordnade efter produkt.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: Integreringskonfigurationer - per program
+description: Lär dig mer om vanliga integrationskonfigurationer för Experience Cloud, ordnade efter program.
+exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
+# Integrationskonfigurationer för Experience Cloud - ordnade efter program
 
-# Integreringskonfigurationer för Adobe Experience Cloud-produkter - per produkt
+I det här avsnittet får alla som är insatta i Adobe-program möjlighet att skapa affärsvärden genom att integrera flera Adobe-program. Vi har organiserat många vanliga integrationskonfigurationer för företagsapplikationer från Adobe och mappat dem till verkliga användningsområden.
 
-Det här avsnittet hjälper alla som är kända i Adobe att skapa affärsvärde genom att integrera flera Adobe-produkter.  Vi har organiserat många vanliga integrationskonfigurationer för företagsprodukterna i Adobe och har kopplat dem till verkliga användningsfall.  Det finns många sätt att konfigurera Adobe-produkterna beroende på vilken miljö du använder.  Avsikten med det här avsnittet är att ge vägledning om hur du kan distribuera i befintligt skick eller ändra för att tillgodose behoven i din miljö.
+Det finns många sätt att konfigurera Adobe-program, beroende på vilken miljö du använder. I det här avsnittet får du hjälp att distribuera i befintligt skick eller ändra dem för att tillgodose behoven i din miljö.
 
 >[!NOTE]
 >
