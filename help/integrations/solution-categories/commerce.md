@@ -1,13 +1,13 @@
 ---
-title: Commerce
+title: Programintegreringar för e-handel
 description: Bygg flerkanaliga e-handelsupplevelser på en enda plattform med vår flexibla, AI-baserade e-handelslösning.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '165'
 ht-degree: 3%
 
 ---
-
 
 # [!DNL Commerce]
 

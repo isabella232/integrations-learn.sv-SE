@@ -1,17 +1,18 @@
 ---
-title: Innehållsförsörjningskedja
+title: Programintegreringar för innehållsleveranskedjan
 description: Planera, skapa, personalisera och publicera innehåll.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 1%
 
 ---
 
-
 # Innehållsförsörjningskedja
 
 Planera, skapa, personalisera och publicera oförglömligt innehåll för varje kund - i samma hastighet som nu.
+
 För att uppfylla kundernas förväntningar i realtid för personaliserade upplevelser krävs mer digitalt innehåll än någonsin. Med Adobe kreativa arbetsflöden och resurshanteringslösningar kan era team planera, skapa och leverera personaliserat innehåll i stor skala som stöder kundresan vid alla kontaktytor.
 
 <table>

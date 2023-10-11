@@ -1,17 +1,19 @@
 ---
-title: Innehållshantering
-description: I dagens digitala landskap är det en stor utmaning att tillgodose miljontals kunders unika behov. Men det slutar inte där. För att lyckas måste ni också ha förmågan att snabbt upptäcka, ansluta och återanvända godkända resurser på olika enheter och i olika kanaler i global skala. Dessutom är det avgörande att få insikter om hur effektiva dessa upplevelser är. Upptäck en heltäckande lösning som gör att ni enkelt kan skapa personaliserade digitala upplevelser, samtidigt som ni säkerställer tillgångshantering i realtid, effektiv leverans och resultatutvärdering.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+title: Programintegreringar för innehållshantering
+description: Upptäck en heltäckande lösning som gör att ni enkelt kan skapa personaliserade digitala upplevelser, samtidigt som ni säkerställer tillgångshantering i realtid, effektiv leverans och resultatutvärdering.
+exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
 
-
 # Innehållshantering
 
-I dagens digitala landskap är det en stor utmaning att tillgodose miljontals kunders unika behov. Men det slutar inte där. För att lyckas måste ni också ha förmågan att snabbt upptäcka, ansluta och återanvända godkända resurser på olika enheter och i olika kanaler i global skala. Dessutom är det avgörande att få insikter om hur effektiva dessa upplevelser är. Upptäck en heltäckande lösning som gör att ni enkelt kan skapa personaliserade digitala upplevelser, samtidigt som ni säkerställer tillgångshantering i realtid, effektiv leverans och resultatutvärdering.
+I dagens digitala landskap är det en stor utmaning att tillgodose miljontals kunders unika behov. Men det slutar inte där. För att lyckas måste ni också ha förmågan att snabbt upptäcka, ansluta och återanvända godkända resurser på olika enheter och i olika kanaler i global skala. Dessutom är det avgörande att få insikter om hur effektiva dessa upplevelser är.
+
+Upptäck en heltäckande lösning som gör att ni enkelt kan skapa personaliserade digitala upplevelser, samtidigt som ni säkerställer tillgångshantering i realtid, effektiv leverans och resultatutvärdering.
 
 <table>
  <thead>

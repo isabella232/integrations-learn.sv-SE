@@ -1,13 +1,13 @@
 ---
-title: Kundresa
+title: Applikationsintegreringar för kundresan
 description: Utveckla kundprofiler i realtid genom att hämta data från alla källor för att skapa personaliserade flerkanalsresor.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: eb653b89-db0f-433a-8641-bbeb32197096
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
-
 
 # Kundresa
 
@@ -118,4 +118,3 @@ Utveckla kundprofiler i realtid genom att hämta data från alla källor för at
 </tr>
 </tbody>
 </table>
-
