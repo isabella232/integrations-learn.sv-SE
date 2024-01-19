@@ -12,13 +12,13 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="Integrering" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
+source-git-commit: 46803595cf8e199e0c331ea8b82f7fe4a2afc801
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '821'
 ht-degree: 0%
 
 ---
-
 
 # Integrera [!DNL Analytics] med [!DNL Commerce]
 
@@ -55,7 +55,7 @@ Mer information om varje fas och steg i introduktionsprocessen finns i [Upplevel
 1. Skapa eller uppdatera ditt XDM-schema med [!DNL Commerce]-specifika fältgrupper. Mer information om hur du skapar ett schema finns i [&quot;Skapa scheman&quot;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html) självstudie.
    * Du måste välja det här schemat bland alternativen i datastream-steget nedan. Om du vill skapa ett schema ska du titta i den vänstra kolumnen under **Datahantering** och hitta **Scheman**. Klicka på uppe till höger i gränssnittet **Skapa schema**. Välj XDM ExperienceEvent.
    * När du har skapat ett nytt schema lägger du till [!DNL Commerce] fältgrupper. Leta upp fältgrupper till vänster i användargränssnittet och klicka på **Lägg till**
-      * I sökningen kan du filtrera genom att ange `ExperienceEvent [!DNL Commerce]`
+      * I sökningen kan du filtrera genom att ange `ExperienceEvent Commerce`
       * Välj **Adobe [!DNL Analytics] ExperienceEvent[!DNL Commerce]** genom att markera rutan
       * Klicka sedan på **Lägg till fältgrupper** överst till höger för att spara och fortsätta
 
@@ -84,9 +84,9 @@ Mer information om varje fas och steg i introduktionsprocessen finns i [Upplevel
 
    Här finns ytterligare resurser som du kan använda för att arbeta i Analysis Workspace:
 
-   * [Översikt över Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
+   * [Analysis Workspace - översikt](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
    * [Bygga ett arbetsyteprojekt från grunden](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
    * [Använda tabeller, visualiseringar och paneler i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
    * [Användningsexempel för visualisering](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
 
-   Dessutom finns det kostnadsfria kurser i Experience League. Se [!DNL Analytics] tillgängliga kurser [HÄR](https://experienceleague.adobe.com/?lang=en&amp;Solution=[!DNL Analytics]#training).
+   Dessutom finns det kostnadsfria kurser i Experience League. Se [!DNL Analytics] tillgängliga kurser [HÄR](https://experienceleague.adobe.com/?lang=en&amp;Solution=Analytics#courses).
